@@ -1,0 +1,61 @@
+.dropdown{
+    display:inline-block;
+ }
+
+ .dropdown a{
+    display:block;
+    text-decoration: none;
+}
+
+.dropdown .content{
+    display:none;
+}
+
+.dropdown:hover .content{
+    display:block;
+}
+
+.po{
+    text-shadow: 4px 4px 4px rgb(155, 144, 238),-4px -4px 4px rgb(230, 197, 12), -4px 4px 4px rgb(12, 230, 41);
+
+
+        border-style: outset;
+        border-width:3px;
+        border-color:rgba(174, 151, 139, 0);
+        border-radius:10px;
+        border-top:3px solid rgb(85, 255, 0);
+        border-bottom: 3px solid rgb(255, 225, 0);
+        border-right: inset rgb(105, 203, 105);
+}
+
+.top{
+    border-style: inset;
+    border-radius: 20px;
+    text-shadow: 4px 4px 6px rgb(47, 0, 255), -4px -4px 6px rgb(255, 0, 204), -4px 4px 6px rgb(224, 222, 232);
+}
+
+.bodyy{
+    background-color: antiquewhite;
+}
+
+.leo{
+    background-color: rgb(121, 212, 182);
+}
+
+.rep{
+    border-style: dotted;
+    border-color: aqua;
+    border-radius: 30px;
+    border-top:3px solid rgb(85, 255, 0);
+        border-bottom: 3px solid rgb(255, 225, 0);
+        border-right: inset rgb(17, 26, 151);
+    
+}
+
+.soh{
+    background-color: blanchedalmond;
+}
+
+.how{
+    text-shadow: 4px 4px 6px white, -4px -4px 6px blue,-4px 4px 6px red;
+}
